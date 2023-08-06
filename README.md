@@ -5,5 +5,5 @@ I'm WoBok.
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true&bg_color=-0,ffffff,d5d5d5,cdcdcd,d5d5d5,ffffff)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true&bg_color=-0,ffffff,d5d5d5,cdcdcd,d5d5d5,ffffff&icon_color=000000)]()
 
