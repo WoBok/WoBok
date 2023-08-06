@@ -1,5 +1,5 @@
 I'm WoBok.    
-[![My Skills](https://skillicons.dev/icons?i=unity,c,cpp,cs,github,linux,visualstudio,vscode,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,c,cpp,cs,github,linux,visualstudio,vscode&theme=light)](https://skillicons.dev)
 <img align="right" hight=50% width=50% alt="BG" src="GitHub_Background.png" />
 ### 人生就是大闹一场，
 **然后悄然离去。**  
