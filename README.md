@@ -13,6 +13,7 @@
 ![C#](https://img.shields.io/badge/C%23--%23FFFFFF?style=flat-square&logo=csharp&logoColor=%23FFFFFF&labelColor=%23000000)
 ![Linux](https://img.shields.io/badge/Linux--%23FFFFFF?style=flat-square&logo=linux&logoColor=%23FFFFFF&labelColor=%23000000)
 ![GitHub](https://img.shields.io/badge/GitHub--%23FFFFFF?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23000000)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio--%23FFFFFF?style=flat-square&logo=visualstudio&logoColor=%23FFFFFF&labelColor=%23000000)
 <!--
 [![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
 -->
