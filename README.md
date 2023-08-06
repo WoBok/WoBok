@@ -7,7 +7,7 @@
 <!--
 &emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
 -->
-&emsp;&emsp;&emsp;<img hight=35% width=35% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&bg_color=FFFFFF&color=000000&title_color=000000&line=000000" />
+&emsp;&emsp;&emsp;<img hight=35% width=35% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&bg_color=FFFFFF&color=000000&title_color=000000&line=FFFFFF" />
 <br>
 <br>
 <br>
