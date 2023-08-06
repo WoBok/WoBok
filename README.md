@@ -1,3 +1,4 @@
+<style> h1 { border-bottom: none } </style>
 I'm WoBok.
 <img align="right" hight=50% width=50% alt="BG" src="GitHub_Background.png" />
 <h1>人生就是大闹一场，</h1>
