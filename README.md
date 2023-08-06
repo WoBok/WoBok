@@ -3,5 +3,5 @@ I'm WoBok.
 ### 人生就是大闹一场，
 **然后悄然离去。**  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true&bg_color=0,ffffff,000000,ffffff)]()
 
