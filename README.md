@@ -7,5 +7,5 @@
 &emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
 <br>
 <br>
-&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
 
