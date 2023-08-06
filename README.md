@@ -1,5 +1,5 @@
 I'm WoBok.  
-<img align="right" hight=35% width=35% alt="BG" src="GitHub_Background.png" />
+<img align="right" hight=50% width=50% alt="BG" src="GitHub_Background.png" />
 ### 人生就是大闹一场，
 **然后悄然离去。**  
   
