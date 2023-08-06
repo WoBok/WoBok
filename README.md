@@ -20,3 +20,4 @@
 ![Linux](https://img.shields.io/badge/Linux--%23FFFFFF?style=flat-square&logo=linux&logoColor=%23FFFFFF&labelColor=%23000000)
 [![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
 -->
+&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]()
