@@ -1,6 +1,6 @@
 I'm WoBok.
 <img align="right" hight=50% width=50% alt="BG" src="GitHub_Background.png" />
-<h1>人生就是大闹一场，<h1>
+<h1>人生就是大闹一场，</h1>
 **然后悄然离去。**
 <br>
 <br>
