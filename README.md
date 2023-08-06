@@ -17,5 +17,5 @@
 ![Linux](https://img.shields.io/badge/Linux--%23FFFFFF?style=flat-square&logo=linux&logoColor=%23FFFFFF&labelColor=%23000000)
 [![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
 -->
-<img align="left" hight=50% width=50% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&theme=dracula" />
+<img align="left" hight=30% width=30% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&theme=dracula" />
 
