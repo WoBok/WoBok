@@ -3,7 +3,6 @@
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;人生就是大闹一场，
 **&emsp;&emsp;&emsp;&emsp;&emsp;然后悄然离去。**
 <br>
-<br>
 <!--
 &emsp;&emsp;&emsp;<img hight=45% width=45% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&bg_color=FFFFFF&color=000000&title_color=000000&line=000000&point=000000" />
 <br>
