@@ -5,10 +5,10 @@
 <br>
 <br>
 <!--
-&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
--->
 &emsp;&emsp;&emsp;<img hight=45% width=45% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&bg_color=FFFFFF&color=000000&title_color=000000&line=000000&point=000000" />
 <br>
+-->
+&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
 <br>
 <br>
 ![Unity](https://img.shields.io/badge/Unity--%23FFFFFF?style=flat-square&logo=unity&logoColor=%23FFFFFF&labelColor=%23000000)
