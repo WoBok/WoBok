@@ -3,18 +3,7 @@
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;人生就是大闹一场，
 **&emsp;&emsp;&emsp;&emsp;&emsp;然后悄然离去。**
 <br>
-<!--&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()-->
-<!--START_SECTION:waka-->
-
-```all_time
-From: 30 July 2023 - To: 06 August 2023
-
-Total Time: 9 mins
-
-C#   9 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
-<!--END_SECTION:waka-->
+&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
 <br>
 <br>
 ![Unity](https://img.shields.io/badge/Unity--%23FFFFFF?style=flat-square&logo=unity&logoColor=%23FFFFFF&labelColor=%23000000)
@@ -33,5 +22,15 @@ C#   9 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 &emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]()
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WoBok)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--START_SECTION:waka-->
 
+```all_time
+From: 30 July 2023 - To: 06 August 2023
+
+Total Time: 9 mins
+
+C#   9 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
+<!--END_SECTION:waka-->
 
