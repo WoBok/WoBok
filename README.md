@@ -22,6 +22,7 @@
 &emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]()
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WoBok)](https://github.com/anuraghazra/github-readme-stats)
 -->
+---
 <!--START_SECTION:waka-->
 
 ```all_time
