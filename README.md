@@ -26,11 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-Total Time: 9 mins
+Total Time: 4 hrs 30 mins
 
-C#   9 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#                     3 hrs 17 mins   >>>>>>>>>>>>-------------   48.44 %
+Other                  2 hrs 17 mins   >>>>>>>>-----------------   33.72 %
 ```
 
 <!--END_SECTION:waka-->
