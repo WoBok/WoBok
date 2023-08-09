@@ -3,7 +3,7 @@
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;人生就是大闹一场，
 **&emsp;&emsp;&emsp;&emsp;&emsp;然后悄然离去。**
 <br>
-&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]()
+&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)]
 <br>
 <br>
 ![Unity](https://img.shields.io/badge/Unity--%23FFFFFF?style=flat-square&logo=unity&logoColor=%23FFFFFF&labelColor=%23000000)
@@ -19,8 +19,8 @@
 ![C](https://img.shields.io/badge/C--%23FFFFFF?style=flat-square&logo=c&logoColor=%23FFFFFF&labelColor=%23000000)
 ![Linux](https://img.shields.io/badge/Linux--%23FFFFFF?style=flat-square&logo=linux&logoColor=%23FFFFFF&labelColor=%23000000)
 [![My Skills](https://skillicons.dev/icons?i=unity,github,linux,visualstudio,vscode,c,cpp,cs&theme=light)](https://skillicons.dev)
-&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]()
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WoBok)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WoBok)]
 -->
 ---
 <!--START_SECTION:waka-->
