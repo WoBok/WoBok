@@ -22,9 +22,9 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
-          CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
+          CODE_LANG: txt 
+          TIME_RANGE: all_time
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
