@@ -19,7 +19,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: WoBok/WoBok
           # content
-          SHOW_TITLE: true
+          SHOW_TITLE: false
           SECTION_NAME: waka
           BLOCKS: ->
           CODE_LANG: txt 
@@ -27,7 +27,7 @@ jobs:
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
+          SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
