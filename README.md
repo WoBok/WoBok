@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 August 2023 - To: 08 August 2023
+From: 02 August 2023 - To: 09 August 2023
 
-Total Time: 7 hrs 4 mins
+Total Time: 8 hrs 38 mins
 
-Other                  5 hrs 7 mins    >>>>>>>>>>---------------   41.98 %
+Other                  10 hrs 59 mins  >>>>>>>>>>>>>>-----------   56.00 %
 ```
 
 <!--END_SECTION:waka-->
