@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 09 August 2023
-
-Total Time: 8 hrs 38 mins
+Total Time: 19 hrs 37 mins
 
 Other                  10 hrs 59 mins  >>>>>>>>>>>>>>-----------   56.00 %
 ```
