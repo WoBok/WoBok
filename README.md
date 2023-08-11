@@ -22,16 +22,4 @@
 &emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&theme=dark)]
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WoBok)]
 -->
-<!--
----
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 28 hrs 1 min
-
-Other                  18 hrs 26 mins  >>>>>>>>>>>>>>>>---------   65.83 %
-```
-
-<!--END_SECTION:waka-->
--->
 
