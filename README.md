@@ -4,7 +4,7 @@
   
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;事以匠人之心处之，**  
   
-**&emsp;&emsp;&emsp;&emsp;&emsp;平心静息，宁静以致远。**
+**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;平心静息，宁静以致远。**
 <br>
 &emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)
 <br>
