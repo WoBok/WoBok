@@ -2,7 +2,7 @@
 <img align="right" hight=50% width=50% alt="BG" src="GitHub_Background.png" />  
 
   
-**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;事以匠人之心处之，**  
+**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;浩然侠客气，坦荡存心间。**  
   
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;平心静息，宁静以致远。**
 <br>
