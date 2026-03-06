@@ -6,9 +6,6 @@
   
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;平心静息，宁静以致远。**
 <br>
-&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoBok&hide_title=true&layout=compact&hide_border=true)
-<br>
-<br>
 ![Unity](https://img.shields.io/badge/Unity--%23FFFFFF?style=flat-square&logo=unity&logoColor=%23FFFFFF&labelColor=%23000000)
 ![C++](https://img.shields.io/badge/C%2B%2B--%23FFFFFF?style=flat-square&logo=cplusplus&logoColor=%23FFFFFF&labelColor=%23000000)
 ![C#](https://img.shields.io/badge/C%23--%23FFFFFF?style=flat-square&logo=csharp&logoColor=%23FFFFFF&labelColor=%23000000)
