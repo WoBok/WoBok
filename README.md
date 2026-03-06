@@ -18,7 +18,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub--%23FFFFFF?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23000000)
 ![WebRTC](https://img.shields.io/badge/WebRTC--%23FFFFFF?style=flat-square&logo=webrtc&logoColor=%23FFFFFF&labelColor=%23000000)
 
-&emsp;&emsp;&emsp;<img hight=45% width=45% alt="BG" src="https://github-readme-activity-graph.vercel.app/graph?username=WoBok&bg_color=FFFFFF&color=000000&title_color=000000&line=000000&point=000000" />
-<br>
 
 
