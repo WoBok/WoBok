@@ -4,7 +4,6 @@
 <br>
 <br>
 <br>
-<br>
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;浩然侠客气，坦荡存心间。**  
   
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;平心静息，宁静以致远。**
